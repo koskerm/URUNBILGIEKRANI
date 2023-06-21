@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Kontrolor\u00DCr\u00FCn
+comment1.params=
+comment1.target=Kontrolor\u00DCr\u00FCn()
+comment2.params=
+comment2.target=int\ geturunID()
+comment3.params=p_barkod
+comment3.target=int\ geturunID(java.lang.String)
+comment4.params=p_birim_fiyati\ p_urun_grubu
+comment4.target=int\ geturunID(double,\ java.lang.String)
+comment5.params=p_urunBilgisi
+comment5.target=void\ \u00DCr\u00FCnBilgileriKayit(java.lang.String)
+numComments=6

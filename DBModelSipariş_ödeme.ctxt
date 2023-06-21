@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=DBModelSipari\u015F_\u00F6deme
+comment1.params=
+comment1.target=DBModelSipari\u015F_\u00F6deme()
+comment2.params=
+comment2.target=void\ veriTabaninaBaglan()
+comment3.params=p_urunAdi
+comment3.target=DBModelSipari\u015F_\u00F6deme(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getUrunAdi()
+comment5.params=p_Adi
+comment5.target=void\ setUrunAdi(java.lang.String)
+comment6.params=p_urunBilgisi
+comment6.target=void\ veriKaydet(java.lang.String)
+numComments=7

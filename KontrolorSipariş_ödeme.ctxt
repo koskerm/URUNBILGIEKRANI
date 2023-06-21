@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=KontrolorSipari\u015F_\u00F6deme
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Sipari\u015F_\u00F6deme\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=KontrolorSipari\u015F_\u00F6deme()
+comment2.params=p_musteriID
+comment2.target=KontrolorSipari\u015F_\u00F6deme(int)
+comment3.params=p_siparisID\ p_odenecekTutar
+comment3.target=KontrolorSipari\u015F_\u00F6deme(int,\ double)
+comment4.params=p_cep_telefonu\ p_ad
+comment4.target=KontrolorSipari\u015F_\u00F6deme(int,\ java.lang.String)
+comment5.params=p_urunBilgisi
+comment5.target=void\ M\u00FC\u015FteriBilgileriKayit(java.lang.String)
+numComments=6
